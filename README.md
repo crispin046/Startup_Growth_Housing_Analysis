@@ -137,7 +137,7 @@ plt.show()
 
 # **📜 2. startup_regression.py (Startup Growth Prediction)**
 
-📍 Location: src/startup_regression.py
+**📍 Location: src/startup_regression.py**
 
 import pandas as pd
 import numpy as np
@@ -174,5 +174,3 @@ plt.show()
 
 
 ---
-
-Would you like help with uploading the project to GitHub or making further refinements? 🚀
