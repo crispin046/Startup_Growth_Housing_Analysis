@@ -69,23 +69,7 @@ This project explores *startup growth prediction* and *housing price classificat
 
 ---
 
-## ⚡ Installation & Usage
 
-⿡ *Clone this repository*
-```sh
-git clone https://github.com/your-username/Startup_Growth_Housing_Analysis.git
-cd Startup_Growth_Housing_Analysis
-
-⿢ Install dependencies
-
-pip install -r requirements.txt
-
-⿣ Run Jupyter Notebooks
-
-jupyter notebook
-
-
----
 
 🔗 References
 
@@ -97,14 +81,5 @@ Investment & Startup Research
 
 ---
 
-🤝 Contributing
 
-Feel free to open issues or contribute with pull requests. 🚀
-
-
----
-
-📜 License
-
-This project is licensed under the MIT License.
 
