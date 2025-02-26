@@ -59,7 +59,6 @@ This project explores *housing price classification* and *startup growth predict
 
 #### *🔹 Regression Model Predictions for Startup Growth*
 ![Startup Growth Regression](correlation_heatmap.png)
-)
 
 ---
 
