@@ -58,7 +58,7 @@ This project explores *housing price classification* and *startup growth predict
 - *External factors like industry trends and founder experience might be key missing variables.*  
 
 #### *🔹 Regression Model Predictions for Startup Growth*
-![Startup Growth Regression](![image](correlation heatmap.png)
+![Startup Growth Regression](correlation_heatmap.png)
 )
 
 ---
