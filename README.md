@@ -43,9 +43,8 @@ This project explores *housing price classification* and *startup growth predict
 📈 *Best Model: XGBoost (72% Accuracy)*  
 - Random Forest struggled, but XGBoost gave better predictions.  
 
-#### *🔹 Feature Importance for Housing Prices*
-![Housing Feature Importance([(https://github.com/crispin046/Startup_Growth_Housing_Analysis/blob/main/House%20price%20vs%20school%20feet.png])]
-
+#### 🔹 Feature Importance for Housing Prices  
+[![Housing Feature Importance](https://raw.githubusercontent.com/crispin046/Startup_Growth_Housing_Analysis/main/House%20price%20vs%20school%20feet.png)](https://raw.githubusercontent.com/crispin046/Startup_Growth_Housing_Analysis/main/House%20price%20vs%20school%20feet.png)
 
 ---
 
