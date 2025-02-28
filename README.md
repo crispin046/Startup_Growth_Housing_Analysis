@@ -44,8 +44,8 @@ This project explores *housing price classification* and *startup growth predict
 - Random Forest struggled, but XGBoost gave better predictions.  
 
 #### *🔹 Feature Importance for Housing Prices*
-![Housing Feature Importance](![image]([https://github.com/user-attachments/assets/ee6fc325-1ea8-4f8d-a122-76795021b93c](https://github.com/crispin046/Startup_Growth_Housing_Analysis/blob/main/random_forest_feature_importance.csv))
-)
+![Housing Feature Importance](https://raw.githubusercontent.com/crispin046/Startup_Growth_Housing_Analysis/main/random_forest_feature_importance.png)
+
 
 ---
 
