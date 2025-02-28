@@ -1,5 +1,7 @@
 # 📊 Startup Growth & Housing Price Analysis 🚀🏡
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Frisk-investment-jenga-house.html&psig=AOvVaw3oKM0HOp_wM9encdA4jHDX&ust=1740809372576000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDH5cDa5YsDFQAAAAAdAAAAABAE
+
+![Startup Growth](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4)
+
 
 ## 🏠 Housing Price Classification | 📈 Startup Growth Prediction
 
@@ -46,6 +48,19 @@ This project explores *housing price classification* and *startup growth predict
 
 #### 🔹 Feature Importance for Housing Prices  
 [![Housing Feature Importance](https://raw.githubusercontent.com/crispin046/Startup_Growth_Housing_Analysis/main/House%20price%20vs%20school%20feet.png)](https://raw.githubusercontent.com/crispin046/Startup_Growth_Housing_Analysis/main/House%20price%20vs%20school%20feet.png)
+### 🏡 Key Features Influencing House Prices:
+
+- 📏 **Square Footage** – Larger homes typically have higher prices.  
+- 📍 **Location** – Proximity to schools, workplaces, and amenities affects demand.  
+- 🏫 **Distance to Schools** – Houses near good schools often have higher values.  
+- 🚆 **Accessibility & Transport** – Proximity to highways, metro, and public transport.  
+- 🏡 **Number of Bedrooms & Bathrooms** – More rooms often increase value.  
+- 🛠️ **Year Built & Renovations** – Newer homes or renovated properties attract higher prices.  
+- 🌳 **Lot Size & Outdoor Space** – Bigger lots and gardens increase desirability.  
+- 📈 **Market Trends & Interest Rates** – Economic conditions influence demand.  
+- 🌎 **Neighborhood & Crime Rate** – Safer, well-developed areas have higher property values.  
+- 🏠 **Property Type** – Single-family homes, apartments, condos, etc., impact pricing.  
+- ⚡ **Energy Efficiency & Smart Features** – Sustainable homes with smart tech add value.  
 
 ---
 
