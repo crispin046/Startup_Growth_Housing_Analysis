@@ -1,6 +1,5 @@
 # 📊 Startup Growth & Housing Price Analysis 🚀🏡
-
-![Startup Growth](./images/startup-growth.jpg)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Frisk-investment-jenga-house.html&psig=AOvVaw3oKM0HOp_wM9encdA4jHDX&ust=1740809372576000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDH5cDa5YsDFQAAAAAdAAAAABAE
 
 ## 🏠 Housing Price Classification | 📈 Startup Growth Prediction
 
