@@ -27,7 +27,7 @@ This project explores *housing price classification* and *startup growth predict
 - *Regression (Linear & Random Forest) for Startup Growth*
 - *Visualizations with Seaborn & Matplotlib*
 
-![](distribution of house prices.png)
+![distribution of house prices.png](distribution of house prices.png)
 
 ---
 
