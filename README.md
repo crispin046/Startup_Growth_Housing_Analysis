@@ -1,5 +1,7 @@
 # 📊 Startup Growth & Housing Price Analysis 🚀🏡
 
+![Startup Growth](./images/startup-growth.jpg)
+
 ## 🏠 Housing Price Classification | 📈 Startup Growth Prediction
 
 ### 🔍 Project Overview
