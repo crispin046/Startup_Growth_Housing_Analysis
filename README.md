@@ -57,8 +57,8 @@ This project explores *housing price classification* and *startup growth predict
 - *Linear Regression & Random Forest both performed poorly* due to high unpredictability in startup success.  
 - *External factors like industry trends and founder experience might be key missing variables.*  
 
-#### *🔹 Regression Model Predictions for Startup Growth*
-![Startup Growth Regression](images/correlation_heatmap.png)
+#### 🔹 Regression Model Predictions for Startup Growth  
+[![Startup Growth Regression](https://raw.githubusercontent.com/crispin046/Startup_Growth_Housing_Analysis/main/images/correlation_heatmap.png)](https://raw.githubusercontent.com/crispin046/Startup_Growth_Housing_Analysis/main/images/correlation_heatmap.png)
 
 ---
 
